@@ -25,10 +25,10 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=tookarius&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Stats" />
+      <img src="https://github-stats-extended.vercel.app/api?username=tookarius&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Stats" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tookarius&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tookarius&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" alt="Top Langs" />
     </td>
   </tr>
 </table>
